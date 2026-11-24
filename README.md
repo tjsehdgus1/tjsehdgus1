@@ -5,7 +5,7 @@
 - 🏢 (주)아이웍스 기업부설연구소·융합기술연구소 (2019.10 ~ 2026.07, 과장) — 참여 사업 124건, IT 기획·프로젝트 관리
 - 🤖 2026년부터 Claude Code로 업무 시스템·홈페이지·앱 18개 프로젝트를 직접 개발
 - 🔧 Next.js · TypeScript · PostgreSQL(Supabase·Neon) · Drizzle · Prisma · Expo · Docker
-- 📜 정보처리기사 · SQLD
+- 📜 정보처리기사 · SQLD · ADsP
 - 🌐 포트폴리오: https://tjsehdgus1.github.io/portfolio/
 - 📫 연락: tjsehdgus1100@gmail.com
 
